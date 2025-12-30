@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Programming Language",
+    "description": "Python",
+    "price": 299,
+    "instructorId": 1
+  }
+]
