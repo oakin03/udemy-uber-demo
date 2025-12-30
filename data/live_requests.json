@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  },
+  {
+    "user_id": 1,
+    "course_id": 1,
+    "instructor_id": 2,
+    "status": "assigned"
+  }
+]

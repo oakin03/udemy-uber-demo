@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Programming Language",
-    "description": "Python",
-    "price": 299,
-    "instructorId": 1
+    "title": "Python",
+    "description": "FastAPI training",
+    "instructor": "Orkun Akın",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Github",
+    "description": "Introduction to Github",
+    "instructor": "Orkun Akın",
+    "price": 200
   }
 ]

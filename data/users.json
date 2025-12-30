@@ -1,8 +1,24 @@
+
 [
   {
     "id": 1,
     "name": "TürkBirDev",
-    "role": "user",
-    "purchasedCourses": []
+    "email": "ik@girisimciturk.com",
+    "password": "1",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "name": "Orkun Akın",
+    "email": "oakin03@gmail.com",
+    "password": "1",
+    "role": "instructor"
+  },
+  {
+    "id": 3,
+    "name": "admin",
+    "email": "admin@gmail.com",
+    "password": "1",
+    "role": "admin"
   }
 ]
